@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Privacy policy for the Sum45 Free mobile game.">
+  <title>Sum45 Free Privacy Policy</title>
+  <style>
+    :root { color-scheme: light dark; --accent:#55c91d; --ink:#10203d; --muted:#52627a; --card:#fff; --page:#eaf5ff; --line:#c9def0; }
+    @media (prefers-color-scheme:dark) { :root { --ink:#eef5ff; --muted:#becce0; --card:#17253a; --page:#0e1929; --line:#344861; } }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--page); color:var(--ink); font:16px/1.65 system-ui,-apple-system,"Segoe UI",sans-serif; }
+    main { width:min(860px,calc(100% - 32px)); margin:32px auto; padding:clamp(24px,5vw,56px); background:var(--card); border:1px solid var(--line); border-radius:24px; box-shadow:0 12px 36px #00152a18; }
+    h1 { margin:0; font-size:clamp(2rem,6vw,3.2rem); letter-spacing:-.04em; }
+    h2 { margin-top:2.25rem; font-size:1.45rem; }
+    h3 { margin-top:1.8rem; font-size:1.08rem; }
+    p,li { color:var(--muted); }
+    a { color:#2185c5; }
+    nav { margin:1rem 0 2rem; }
+    nav a { margin-right:1rem; font-weight:700; }
+    .brand { color:var(--accent); }
+    .warning { padding:14px 16px; border:2px solid #d16b00; border-radius:12px; background:#fff2d8; color:#582b00; }
+    @media (prefers-color-scheme:dark) { .warning { background:#432b07; color:#ffe0ac; } }
+    hr { margin:3rem 0; border:0; border-top:1px solid var(--line); }
+    footer { margin-top:3rem; font-size:.9rem; }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Sum<span class="brand">45</span> Free - Privacy Policy</h1>
+  <nav><a href="#english">English</a><a href="#nederlands">Nederlands</a></nav>
+
+  <section id="english" lang="en">
+    <h2>English</h2>
+    <p><strong>Effective date:</strong> 01/08/2026</p>
+    <h3>1. Who we are</h3>
+    <p>Sum45 Free is provided by <strong>Furkan Sonmez</strong>, based in the Netherlands ("we", "us", or "our"). For privacy questions, contact <strong>sum45free@gmail.com</strong>.</p>
+    <h3>2. Data processed by the app</h3>
+    <p>Sum45 Free is designed to work offline. The app does not create user accounts and does not transmit personal data, gameplay data, device identifiers, advertising identifiers, location data, contacts, photos, audio, or similar information to us.</p>
+    <p>The app stores only these game settings and progress locally on your device:</p>
+    <ul><li>best move and completion-time records;</li><li>number of puzzles solved;</li><li>whether the tutorial has been completed;</li><li>master, music, and sound-effect volume settings; and</li><li>the selected visual theme, where available.</li></ul>
+    <p>This information is used only to operate the game and remember your preferences. It is not sent to us.</p>
+    <h3>3. Analytics, advertising, and tracking</h3>
+    <p>Sum45 Free does not contain advertising, third-party analytics, cross-app tracking, or targeted-advertising technology. We do not sell or share personal data.</p>
+    <h3>4. Device permissions</h3>
+    <p>Sum45 Free is not designed to access your contacts, precise location, photos, camera, or microphone. Platform-level permissions or technical data handled independently by Apple, Google, or the operating system are governed by their own terms and privacy policies.</p>
+    <h3>5. Support communications</h3>
+    <p>If you contact us by email, we receive the information you choose to provide, such as your email address, message, and attachments. We use it only to answer your request and keep necessary support records. Our GDPR legal basis is our legitimate interest in providing support and improving the app. We normally delete support correspondence within 12 months after the last interaction, unless longer retention is required by law or for a dispute. Please do not send sensitive personal information.</p>
+    <h3>6. Children</h3>
+    <p>Sum45 Free does not knowingly collect personal data from children or anyone else through the app. If you believe a child sent personal data to us through a support message, contact us so we can delete it.</p>
+    <h3>7. Data deletion</h3>
+    <p>You can delete locally stored game data by clearing the app's storage or uninstalling Sum45 Free. We do not hold a server-side copy. To request deletion of information sent directly to us, email <strong>sum45free@gmail.com</strong>.</p>
+    <h3>8. Security and international processing</h3>
+    <p>The app does not transmit its locally stored game data to us. Information sent by email is processed using our email provider and may be processed in countries where that provider operates, subject to its safeguards and applicable law.</p>
+    <h3>9. Your rights</h3>
+    <p>Where the GDPR applies, you may have rights to access, correct, erase, restrict, or object to our processing of personal data, and to data portability where applicable. You may also complain to the Dutch Data Protection Authority (Autoriteit Persoonsgegevens). Contact <strong>sum45free@gmail.com</strong> to exercise a right.</p>
+    <h3>10. Changes</h3>
+    <p>We may update this policy if Sum45 Free's features or legal obligations change. We will publish the revised policy with a new effective date. If a future version adds analytics, advertising, accounts, cloud saving, purchases, or other online services, we will update this policy and the app-store declarations before release.</p>
+  </section>
+
+  <hr>
+
+  <section id="nederlands" lang="nl">
+    <h2>Nederlands</h2>
+    <p><strong>Ingangsdatum:</strong> 01/08/2026</p>
+    <h3>1. Wie wij zijn</h3>
+    <p>Sum45 Free wordt aangeboden door <strong>Furkan Sonmez</strong>, gevestigd in Nederland ("wij", "we" of "ons"). Voor privacyvragen kunt u contact opnemen via <strong>sum45free@gmail.com</strong>.</p>
+    <h3>2. Gegevens die de app verwerkt</h3>
+    <p>Sum45 Free is ontworpen om offline te werken. De app maakt geen gebruikersaccounts aan en verstuurt geen persoonsgegevens, spelgegevens, apparaat-ID's, advertentie-ID's, locatiegegevens, contacten, foto's, audio of vergelijkbare informatie naar ons.</p>
+    <p>De app bewaart alleen de volgende spelinstellingen en voortgang lokaal op uw apparaat:</p>
+    <ul><li>beste scores voor zetten en voltooiingstijd;</li><li>het aantal opgeloste puzzels;</li><li>of de tutorial is voltooid;</li><li>instellingen voor hoofdvolume, muziek en geluidseffecten; en</li><li>het gekozen visuele thema, wanneer beschikbaar.</li></ul>
+    <p>Deze informatie wordt alleen gebruikt om het spel te laten werken en uw voorkeuren te onthouden. De informatie wordt niet naar ons verzonden.</p>
+    <h3>3. Analyse, advertenties en tracking</h3>
+    <p>Sum45 Free bevat geen advertenties, analysetools van derden, tracking tussen apps of technologie voor gerichte advertenties. Wij verkopen of delen geen persoonsgegevens.</p>
+    <h3>4. Apparaatrechten</h3>
+    <p>Sum45 Free is niet ontworpen om toegang te krijgen tot uw contacten, exacte locatie, foto's, camera of microfoon. Systeemrechten of technische gegevens die Apple, Google of het besturingssysteem zelfstandig verwerken, vallen onder hun eigen voorwaarden en privacybeleid.</p>
+    <h3>5. Contact met ondersteuning</h3>
+    <p>Als u ons mailt, ontvangen wij de informatie die u zelf verstrekt, zoals uw e-mailadres, bericht en bijlagen. Wij gebruiken deze alleen om uw verzoek te beantwoorden en noodzakelijke ondersteuningsadministratie bij te houden. Onze AVG-grondslag is ons gerechtvaardigd belang om ondersteuning te bieden en de app te verbeteren. Wij verwijderen correspondentie normaal binnen 12 maanden na het laatste contact, tenzij langere bewaring wettelijk vereist is of nodig is voor een geschil. Stuur geen gevoelige persoonsgegevens.</p>
+    <h3>6. Kinderen</h3>
+    <p>Sum45 Free verzamelt via de app niet bewust persoonsgegevens van kinderen of andere personen. Denkt u dat een kind persoonsgegevens in een ondersteuningsbericht heeft gestuurd, neem dan contact op zodat wij deze kunnen verwijderen.</p>
+    <h3>7. Gegevens verwijderen</h3>
+    <p>U kunt lokaal opgeslagen spelgegevens verwijderen door de appgegevens te wissen of Sum45 Free te verwijderen. Wij hebben geen kopie op een server. Wilt u rechtstreeks aan ons verstrekte informatie laten verwijderen, mail dan naar <strong>sum45free@gmail.com</strong>.</p>
+    <h3>8. Beveiliging en internationale verwerking</h3>
+    <p>De app verzendt de lokaal opgeslagen spelgegevens niet naar ons. Informatie die u per e-mail stuurt, wordt verwerkt via onze e-mailprovider en kan worden verwerkt in landen waar die provider actief is, met inachtneming van diens waarborgen en de toepasselijke wetgeving.</p>
+    <h3>9. Uw rechten</h3>
+    <p>Wanneer de AVG van toepassing is, kunt u recht hebben op inzage, rectificatie, verwijdering, beperking van of bezwaar tegen de verwerking van persoonsgegevens, en waar van toepassing op gegevensoverdraagbaarheid. U kunt ook een klacht indienen bij de Autoriteit Persoonsgegevens. Neem contact op via <strong>sum45free@gmail.com</strong> om een recht uit te oefenen.</p>
+    <h3>10. Wijzigingen</h3>
+    <p>Wij kunnen dit beleid wijzigen wanneer functies van Sum45 Free of wettelijke verplichtingen veranderen. Wij publiceren het aangepaste beleid met een nieuwe ingangsdatum. Als een toekomstige versie analyse, advertenties, accounts, cloudopslag, aankopen of andere onlinediensten toevoegt, passen wij dit beleid en de appstoreverklaringen vóór publicatie aan.</p>
+  </section>
+
+  <footer>© Furkan Sonmez — Sum45 Free</footer>
+</main>
+</body>
+</html>
